@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name          = "UXFBSDK"
+  s.name          = "UXFBSDKFork"
   s.version       = "2.0.2"
   s.summary       = "Collect feedback from your users"
   s.description   = "With UXFeedbackSDK you can collect feedback from your users"
